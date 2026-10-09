@@ -1,0 +1,14 @@
+---
+title: "ST2195 Assignment 1 – R"
+output: html_document
+---
+
+## Introduction
+This notebook prints all integers from 1 to 10 (inclusive) using R.
+
+## R Code
+```{r}
+# Print integers 1 through 10 with a for loop
+for (i in 1:10) {
+  print(i)
+}
